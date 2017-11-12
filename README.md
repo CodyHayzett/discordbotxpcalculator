@@ -1,5 +1,12 @@
 # Discord Bot XP Calculator
-Allows you to instantly do some calculations related to bots with an experience system.
+Allows you to instantly check the minimum, average, and maximum amount of messages are required to reach a certain level with different Discord bots.
+
+
+__**Features:**__
+- Min, Avg, Max messages required to reach selected level
+- Min, Avg, Max time required to reach selected level
+- Timer that counts to 1 minute (with different settings to match your standards)
+- FAQ to easily get answers to questions I've seen (and had) a lot
 
 __**Supported bots:**__
 
@@ -9,6 +16,6 @@ __**Supported bots:**__
 
 `Miki`
 
-More support may be added later on
+*~More support may be added later on*
 
 Join my development Discord: https://discord.gg/6FCwnZb
