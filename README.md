@@ -19,4 +19,5 @@ __**Supported bots:**__
 *~More support may be added later on*
 
 Join my development Discord: https://discord.gg/6FCwnZb
+
 Check out the Trello to keep track of development: https://trello.com/b/yiW293VJ/discord-bot-xp-calculator
